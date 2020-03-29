@@ -1,0 +1,25 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+li {
+  list-style: none;
+}
+
+.box {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(243, 241, 241);
+}
+
+.check, .delete {
+  padding: 5px;
+  margin: 5px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
